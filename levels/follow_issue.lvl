@@ -1,0 +1,19 @@
+#domain
+hospital
+#levelname
+follow_issue
+#colors
+blue: 0, 1, 2
+#initial
++++++++++++++
++           +
++++++++++   +
++012        +
++++++++++++++
+#goal
++++++++++++++
++           +
++++++++++   +
++12        0+
++++++++++++++
+#end

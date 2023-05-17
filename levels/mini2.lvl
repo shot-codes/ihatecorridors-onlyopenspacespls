@@ -1,0 +1,22 @@
+#domain
+hospital
+#levelname
+corridors
+#colors
+red: 0, A
+purple: Z
+#initial
+++++++++++++++++++
++ 0              +
++ZZZZ  ZZZZZZZZZZ+
++           A    +
++                +
+++++++++++++++++++
+#goal
+++++++++++++++++++
++                +
++ZZZZ  ZZZZZZZZZZ+
++               A+
++                +
+++++++++++++++++++
+#end

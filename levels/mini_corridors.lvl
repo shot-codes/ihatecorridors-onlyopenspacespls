@@ -1,0 +1,31 @@
+#domain
+hospital
+#levelname
+SEQ_CBS
+#colors
+blue: 0, A, B, C, D, E, F
+red: 1, G, H, I, J, K, L
+green: Z
+#initial
+++++++++++++++
++0          1+
++            +
++  ABC  IHG  +
++  DEF   KJ  +
++            +
++ Z Z    Z Z +
++ Z Z    Z Z +
++ Z Z    Z Z +
+++++++++++++++
+#goal
+++++++++++++++
++0          1+
++            +
++            +
++            +
++            +
++C F        I+
++B E      K H+
++A D      J G+
+++++++++++++++
+#end

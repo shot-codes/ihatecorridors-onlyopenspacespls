@@ -1,0 +1,19 @@
+#domain
+hospital
+#levelname
+noop_issue
+#colors
+blue: 0, 1, A
+#initial
++++++
++ + +
++A+A+
++0+1+
++++++
+#goal
++++++
++A+A+
++ + +
++0+1+
++++++
+#end
